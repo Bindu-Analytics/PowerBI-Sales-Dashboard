@@ -20,9 +20,6 @@ to support data-driven decision-making.
 ## 📂 Dataset
 - Sales dataset containing order date, region, product category, revenue, and profit
 
-## 🖼 Dashboard Preview
-![Dashboard Overview](dashboard_overview.png)
-
 ## 🚀 Outcome
 - Identified top-performing regions and products
 - Improved visibility into monthly sales trends
