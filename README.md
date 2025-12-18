@@ -37,8 +37,10 @@ to support data-driven decision-making.
 
 
 ## 👤 Author
-HIMABINDU
+### HIMABINDU
+
 Aspiring Data Analyst / Business Analyst
-Skilled in Power BI, SQL, Excel, and Data Analysis
+
+Skilled in :  Power BI, SQL, Excel, and Data Analysis
 
 🔗 LinkedIn: https://www.linkedin.com/in/himabindu-pathlavath-baa298204/
