@@ -24,3 +24,6 @@ to support data-driven decision-making.
 - Identified top-performing regions and products
 - Improved visibility into monthly sales trends
 - Enabled stakeholders to make faster business decisions
+
+##  Dashboard Overview
+POWER%20BI%20-%20SALES%20DASHBOARD.png
