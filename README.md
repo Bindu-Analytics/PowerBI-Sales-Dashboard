@@ -26,4 +26,5 @@ to support data-driven decision-making.
 - Enabled stakeholders to make faster business decisions
 
 ##  Dashboard Overview
-POWER%20BI%20-%20SALES%20DASHBOARD.png
+![Dashboard](<img width="1280" height="719" alt="POWER_BI-SALES_DASHBOARD" src="https://github.com/user-attachments/assets/8bdc4d74-dcd2-47bd-82a7-512c1b0dd279" />
+)
