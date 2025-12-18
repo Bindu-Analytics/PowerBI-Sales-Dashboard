@@ -28,3 +28,17 @@ to support data-driven decision-making.
 ## 📈 Dashboard Overview
 <img width="1280" height="719" alt="POWER_BI-SALES_DASHBOARD" src="https://github.com/user-attachments/assets/8bdc4d74-dcd2-47bd-82a7-512c1b0dd279" />
 
+## 🧠 Skills Demonstrated
+- Business analysis and KPI definition
+- Data modeling and relationship building
+- DAX calculations for KPIs and profitability
+- Data visualization and storytelling
+- Stakeholder-focused dashboard design
+
+
+## 👤 Author
+HIMABINDU
+Aspiring Data Analyst / Business Analyst
+Skilled in Power BI, SQL, Excel, and Data Analysis
+
+🔗 LinkedIn: https://www.linkedin.com/in/himabindu-pathlavath-baa298204/
