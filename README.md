@@ -25,6 +25,6 @@ to support data-driven decision-making.
 - Improved visibility into monthly sales trends
 - Enabled stakeholders to make faster business decisions
 
-##  Dashboard Overview
-(<img width="1280" height="719" alt="POWER_BI-SALES_DASHBOARD" src="https://github.com/user-attachments/assets/8bdc4d74-dcd2-47bd-82a7-512c1b0dd279" />
-)
+## 📈 Dashboard Overview
+<img width="1280" height="719" alt="POWER_BI-SALES_DASHBOARD" src="https://github.com/user-attachments/assets/8bdc4d74-dcd2-47bd-82a7-512c1b0dd279" />
+
